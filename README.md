@@ -2,7 +2,7 @@
 ### hi, i'm manya 🌱 
 sophomore at **Manipal Institute of Technology**, pursuing a B.E. in **Information Technology**  
 i'm deeply passionate about **problem solving**  
-currently, i'm still exploring and learning and working on
+currently, i'm still exploring, learning and working on
 **Frontend, Backend, AI/ML & Cybersecurity.**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziennaa&theme=dark&hide_border=true&layout=compact)
