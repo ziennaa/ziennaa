@@ -9,7 +9,7 @@ currently, i'm still exploring, learning and working on
 
 ---
 
-### 🌐 Socials:  
+### Connect me @ !!:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manya-kalra-1b3159317/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23000000.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/zienna)
 
