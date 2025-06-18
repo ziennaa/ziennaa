@@ -5,7 +5,7 @@ i'm deeply passionate about **problem solving**
 currently, i'm still exploring, learning and working on
 **Frontend, Backend, AI/ML and more**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziennaa&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziennaa&theme=dark&hide_border=true&layout=compact&cache_seconds=3600)
 
 ---
 
