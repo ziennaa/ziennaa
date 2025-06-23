@@ -1,6 +1,6 @@
 
 ### hi, i'm manya 🌱 
-sophomore at **Manipal Institute of Technology**, pursuing a B.E. in **Information Technology**  
+i'm sophomore, pursuing a B.E. in **Information Technology**  
 i'm deeply passionate about **problem solving**  
 currently, i'm still exploring, learning and working on
 **Frontend, Backend, AI/ML and more**
